@@ -50,8 +50,11 @@
   </a>
 </p>
 <h2>⚡ My GitHub Statistics </h2>
-<a href="https://github.com/Galiixy/Galiixy.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galiixy"/>
-</a>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Galiixy&layout=compact&theme=dracula&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Galiixy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galiixy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
