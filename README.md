@@ -16,7 +16,7 @@ Currently a student in computer science, <strong>I do not consider myself as a d
    </details>
 
  
-On this git, you'll find only school projects, with the purpose to make me aware of technologies.
+On this git, you'll find only school projects, with the purpose to make me aware of technologies. This is not in any way representative of my knowledge
 
   <h2>🖥️Where to find me</h2>
 <p>
