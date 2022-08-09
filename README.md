@@ -50,6 +50,8 @@
   </a>
 </p>
 <h2>⚡ My GitHub Statistics </h2>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galiixy&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
+<a href="https://github.com/Galiixy/Galiixy.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galiixy"/>
+</a>
 
 
