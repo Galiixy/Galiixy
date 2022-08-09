@@ -1,6 +1,6 @@
 ### Hi there 👋
   
-  <h3>My Academic Background</h3>
+  <h2>My Academic Background</h2>
   
   <table>
     <tr>
@@ -37,7 +37,7 @@
     </tr>
   </table>
 
-<h3>Where to find me</h3>
+<h2>Where to find me</h2>
 <p>
   <a href="https://github.com/Galiixy/Galiixy" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
