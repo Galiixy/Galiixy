@@ -1,18 +1,35 @@
 ### Hi there 👋
 
+
+<h3>My Academic Background</h3>
+<table>
+  <tr>
+    <th>Years</th>
+    <th>School</th>
+    <th>Languages And Tools</th>
+  </tr>
+  <tr>
+    <td>2023-2022</td>
+    <td>
+      <img alt="insa" src="![image](https://user-images.githubusercontent.com/50149050/183647701-7039a641-f531-44b8-9fde-7984b79fcde6.png)" />
+    </td>
+    <td>
+      <img alt="C++" src="https://img.shields.io/badge/C++-0077cc?style=flat-square&logo=C&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>2020-2018</td>
+    <td>
+      <img alt="C++" src="https://img.shields.io/badge/C++-0077cc?style=flat-square&logo=C&logoColor=white" />
+    </td>
+    <td>
+      <img alt="C++" src="https://img.shields.io/badge/C++-0077cc?style=flat-square&logo=C&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 <details>
   <summary><strong>About me</strong></summary>
-I'm a CS Student at INSA LYON !
-
-  <div id="badges">
-    <a href="https://www.insa-lyon.fr/fr/formation/informatique"
-      <img src="https://img.shields.io/twitter/url?color=white&label=TWITTER&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F124%2F124021.png"/>
-    </a>
-    <a href="https://gitlab.com/Galiixy">
-      <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
-    </a>
-  </div>
-
 </details>
 </br>
 
