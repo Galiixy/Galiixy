@@ -49,12 +49,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 <h2>⚡ My GitHub Statistics </h2>
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Galiixy&layout=compact&theme=dracula&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Galiixy)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galiixy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
