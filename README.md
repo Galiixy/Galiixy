@@ -1,6 +1,4 @@
 ### Hi there 👋
-<details>
-  <summary><strong>About me</strong></summary>
   
   <h3>My Academic Background</h3>
   
@@ -38,4 +36,17 @@
       </td>
     </tr>
   </table>
-</details>
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/Galiixy/Galiixy" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  <a href="https://github.com/Galiixy/Galiixy" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ff9933?&style=for-the-badge&logo=Google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ga%C3%ABlle-ferreira-63656a12a/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
