@@ -49,4 +49,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<h2>⚡ My GitHub Statistics </h2>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galiixy&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
+
 
