@@ -18,7 +18,7 @@ Currently a student in computer science, <strong>I do not consider myself as a d
  
 On this git, you'll find only school projects, with the purpose to make me aware of technologies. This is not in any way representative of my knowledge
 
-  <h2>🖥️Where to find me</h2>
+  <h2>🖥️Where you can find me</h2>
 <p>
   <a href="https://github.com/Galiixy/Galiixy" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
